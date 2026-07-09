@@ -201,9 +201,18 @@ Roughly 1 in 5 outpatient appointments ends in a no-show, wasting provider capac
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darshita-dp/Darshita-dp/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darshita-dp/Darshita-dp/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Darshita-dp/Darshita-dp/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Darshita-dp/Darshita-dp/gh-pages/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Darshita-dp/Darshita-dp/gh-pages/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Darshita-dp/Darshita-dp/gh-pages/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake animation"
+  />
 </picture>
 
 </div>
