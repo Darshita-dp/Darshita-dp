@@ -15,7 +15,7 @@
 <br/><br/>
 
 <a href="https://dp-portfolio.freebuff.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://[www.linkedin.com/in/darshita-patel](https://www.linkedin.com/in/darshitapatel2001/)"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/darshitapatel2001/"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:darshitaa2001@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Darshita-dp"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
 
@@ -237,9 +237,9 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:darshitapatel1506@gmail.com"><img src="https://img.shields.io/badge/Gmail-darshitaa2001@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
+<a href="mailto:darshitapatel1506@gmail.com"><img src="https://img.shields.io/badge/Gmail-darshitapatel1506%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
 <br/>
-<a href="[https://www.linkedin.com/in/darshitapatel2001/](https://www.linkedin.com/in/darshitapatel2001/)"><img src="https://img.shields.io/badge/LinkedIn-Darshita%20Patel-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/darshitapatel2001/"><img src="https://img.shields.io/badge/LinkedIn-Darshita%20Patel-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
 <br/>
 <a href="https://github.com/Darshita-dp"><img src="https://img.shields.io/badge/GitHub-Darshita--dp-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 <br/>
