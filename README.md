@@ -19,7 +19,6 @@
 <a href="mailto:darshitapatel1506@gmail.com"><img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Darshita-dp"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub" /></a>
 
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Darshita-dp&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
 <a href="https://github.com/Darshita-dp?tab=followers"><img src="https://img.shields.io/github/followers/Darshita-dp?style=flat-square&color=6D28D9&labelColor=0D1117&label=FOLLOWERS&logo=github" alt="GitHub followers" /></a>
