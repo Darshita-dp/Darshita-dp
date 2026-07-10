@@ -173,12 +173,12 @@ The product moves beyond prediction. Each risk score is translated into a concre
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Darshita-dp&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180" alt="GitHub statistics" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Darshita-dp&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180" alt="GitHub statistics" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshita-dp&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681&stroke=30363D" height="180" alt="GitHub streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshita-dp&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" height="165" alt="Top languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Darshita-dp&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" height="165" alt="Top languages" />
 
 </div>
 
