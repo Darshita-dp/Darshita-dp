@@ -68,7 +68,7 @@ My focus is not just reporting what happened. I build decision-support systems t
 - Revenue-recovery simulation and escalation logic
 - React work queue and Power BI executive dashboards
 
-**Stack:** `Python` `SQL` `PostgreSQL` `FastAPI` `React` `TypeScript` `Power BI` `DAX` `Docker`
+**Stack:** `Python` `SQL` `PostgreSQL` `FastAPI` `React` `TypeScript` `Power BI` `DAX` `Docker.`
 
 [View Repository →](https://github.com/Darshita-dp/Healthcare-Revenue-Cycle-Command-Center)
 
@@ -83,7 +83,7 @@ My focus is not just reporting what happened. I build decision-support systems t
 - Waitlist matching for released and open appointment slots
 - React operational views and Power BI reporting
 
-**Stack:** `Python` `Scikit-learn` `PostgreSQL` `FastAPI` `React` `Power BI` `Power Automate`
+**Stack:** `Python` `Scikit-learn` `PostgreSQL` `FastAPI` `React` `Power BI` `Power Automate.`
 
 [View Repository →](https://github.com/Darshita-dp/patient-access-noshow-automation-platform)
 
