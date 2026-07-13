@@ -34,7 +34,7 @@ I build **healthcare data products** that connect analytics with daily operation
 
 My focus is not just reporting what happened. I build decision-support systems that help teams determine **what to do next**: which claim to prioritize, which payer to escalate, which appointment is at risk, or which patient should fill an open slot.
 
-**Open to:** `Data Analyst` · `Data & Software Analyst` · `Healthcare Data Analyst` · `BI Analyst` · `Power BI Developer` · `Business Systems Analyst` · `Process Automation Analyst`
+**Open to:** `Data Analyst` · `Data & Software Analyst` · `Healthcare Data Analyst` · `BI Analyst` · `Power BI Developer` · `Business Systems Analyst` · `Process Automation Analyst` · `Developer` 
 
 ---
 
