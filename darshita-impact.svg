@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="150" viewBox="0 0 1040 150" role="img" aria-label="Darshita Patel focus areas"><defs><style>.s{font-family:Segoe UI,Arial,sans-serif}.m{font-family:Consolas,monospace}</style></defs><g><animate attributeName="opacity" values="0;1" dur=".55s" begin="0.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 12;0 0" dur=".55s" begin="0.2s" fill="freeze"/>
+<rect x="20" y="18" width="320" height="112" rx="16" fill="#170e28" stroke="#67e8f9" stroke-width="1.5"/>
+<circle cx="58" cy="54" r="16" fill="#67e8f9" opacity=".15"/><circle cx="58" cy="54" r="6" fill="#67e8f9"/>
+<text x="84" y="50" class="m" font-size="14" font-weight="700" fill="#67e8f9">HEALTHCARE ANALYTICS</text>
+<text x="44" y="87" class="s" font-size="13" fill="#d8d1e4">Claims, denials, A/R and patient access</text>
+<text x="44" y="111" class="m" font-size="10" fill="#8f82a8">BUILD • MEASURE • IMPROVE</text></g><g><animate attributeName="opacity" values="0;1" dur=".55s" begin="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 12;0 0" dur=".55s" begin="0.4s" fill="freeze"/>
+<rect x="360" y="18" width="320" height="112" rx="16" fill="#170e28" stroke="#a78bfa" stroke-width="1.5"/>
+<circle cx="398" cy="54" r="16" fill="#a78bfa" opacity=".15"/><circle cx="398" cy="54" r="6" fill="#a78bfa"/>
+<text x="424" y="50" class="m" font-size="14" font-weight="700" fill="#a78bfa">BI + AUTOMATION</text>
+<text x="384" y="87" class="s" font-size="13" fill="#d8d1e4">Power BI, DAX, ETL and workflow logic</text>
+<text x="384" y="111" class="m" font-size="10" fill="#8f82a8">BUILD • MEASURE • IMPROVE</text></g><g><animate attributeName="opacity" values="0;1" dur=".55s" begin="0.6000000000000001s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 12;0 0" dur=".55s" begin="0.6000000000000001s" fill="freeze"/>
+<rect x="700" y="18" width="320" height="112" rx="16" fill="#170e28" stroke="#f472b6" stroke-width="1.5"/>
+<circle cx="738" cy="54" r="16" fill="#f472b6" opacity=".15"/><circle cx="738" cy="54" r="6" fill="#f472b6"/>
+<text x="764" y="50" class="m" font-size="14" font-weight="700" fill="#f472b6">DATA PRODUCTS</text>
+<text x="724" y="87" class="s" font-size="13" fill="#d8d1e4">SQL + Python + API + React delivery</text>
+<text x="724" y="111" class="m" font-size="10" fill="#8f82a8">BUILD • MEASURE • IMPROVE</text></g></svg>
