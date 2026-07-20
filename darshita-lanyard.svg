@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="650" viewBox="0 0 380 650" role="img" aria-labelledby="title desc">
+  <title id="title">Darshita Patel animated ID badge</title>
+  <desc id="desc">A purple lanyard and glass ID badge with Darshita Patel portrait.</desc>
+  <defs>
+    <linearGradient id="strap" x1="0" x2="1"><stop stop-color="#ec4899"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1c1230"/><stop offset="1" stop-color="#0b0714"/></linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".45"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-opacity=".45"/></filter>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="face"><circle cx="190" cy="316" r="72"/></clipPath>
+    <clipPath id="cardClip"><rect x="55" y="205" width="270" height="390" rx="26"/></clipPath>
+    <symbol id="avatarBadge" viewBox="0 0 256 256">
+      <defs>
+        <linearGradient id="jacketGrad-avatarBadge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffaf2"/><stop offset="1" stop-color="#ded5ca"/></linearGradient>
+        <linearGradient id="hairGrad-avatarBadge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#17131b"/><stop offset="1" stop-color="#050407"/></linearGradient>
+      </defs>
+      <circle cx="128" cy="128" r="124" fill="#f3e8ff" opacity=".28"/>
+      <path d="M44 123C42 49 78 20 128 20s86 29 84 103c-2 64-25 105-84 108-59-3-82-44-84-108z" fill="url(#hairGrad-avatarBadge)"/>
+      <path d="M75 83c8-37 29-52 53-52 25 0 47 16 54 53l-7 57c-6 43-24 67-47 67-24 0-42-24-48-67z" fill="#f2c5a6"/>
+      <path d="M82 89c4-37 21-57 46-58-19 13-28 31-30 60-7 8-10 15-12 27z" fill="#111015"/>
+      <path d="M174 91c-4-37-21-57-46-60 20 13 30 31 32 60 7 8 10 15 12 27z" fill="#111015"/>
+      <path d="M98 66c20-17 44-16 61 1-15-6-29-7-42-2-8 3-13 5-19 1z" fill="#09080b"/>
+      <ellipse cx="89" cy="124" rx="8" ry="14" fill="#eab896"/><ellipse cx="167" cy="124" rx="8" ry="14" fill="#eab896"/>
+      <path d="M101 114c7-5 15-5 21 0" fill="none" stroke="#272029" stroke-width="4" stroke-linecap="round"/>
+      <path d="M136 114c7-5 15-5 21 0" fill="none" stroke="#272029" stroke-width="4" stroke-linecap="round"/>
+      <ellipse cx="113" cy="122" rx="5.5" ry="7" fill="#3a2524"/><ellipse cx="148" cy="122" rx="5.5" ry="7" fill="#3a2524"/>
+      <circle cx="115" cy="120" r="1.7" fill="#fff"/><circle cx="150" cy="120" r="1.7" fill="#fff"/>
+      <path d="M130 123c-2 8-3 14 2 16" fill="none" stroke="#d59577" stroke-width="2.2" stroke-linecap="round"/>
+      <path d="M113 151c10 9 22 10 32 0" fill="none" stroke="#b95d65" stroke-width="3" stroke-linecap="round"/>
+      <path d="M108 169c12 8 28 8 40 0v31h-40z" fill="#e7b392"/>
+      <path d="M52 245c4-45 25-68 58-72l18 18 18-18c33 4 54 27 58 72z" fill="url(#jacketGrad-avatarBadge)"/>
+      <path d="M101 178l27 18 27-18-8 67h-38z" fill="#ec4899"/>
+      <path d="M95 180l-20 60h34l8-48z" fill="#f7f1e9" stroke="#d6cdc2" stroke-width="2"/>
+      <path d="M161 180l20 60h-34l-8-48z" fill="#f7f1e9" stroke="#d6cdc2" stroke-width="2"/>
+      <path d="M67 64c5-13 16-18 27-13" fill="none" stroke="#c4b5fd" stroke-width="5" stroke-linecap="round"/>
+      <path d="M189 64c-5-13-16-18-27-13" fill="none" stroke="#f472b6" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="91" cy="52" r="3" fill="#ec4899"/><circle cx="165" cy="52" r="3" fill="#8b5cf6"/>
+      <path d="M58 96c-7 56 5 103 35 132-26-16-45-48-49-91z" fill="#09080b"/>
+      <path d="M198 96c7 56-5 103-35 132 26-16 45-48 49-91z" fill="#09080b"/>
+    </symbol>
+    <style>.sans{font-family:Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,monospace}</style>
+  </defs>
+  <rect width="380" height="650" fill="transparent"/>
+  <g transform-origin="190px 80px">
+    <animateTransform attributeName="transform" type="rotate" values="0 190 80;3 190 80;-3 190 80;2 190 80;-2 190 80;0 190 80" keyTimes="0;.18;.36;.54;.72;1" dur="7s" repeatCount="indefinite"/>
+    <path d="M155 -5 L145 144" stroke="url(#strap)" stroke-width="28"/>
+    <path d="M225 -5 L235 144" stroke="url(#strap)" stroke-width="28"/>
+    <g class="mono" font-size="8" fill="#fff" opacity=".9" transform="rotate(84 151 68)"><text x="95" y="70">DATA • DECISIONS • ACTION</text></g>
+    <g class="mono" font-size="8" fill="#fff" opacity=".9" transform="rotate(-84 229 68)"><text x="173" y="70">DARSHITA • BUILD • LEARN</text></g>
+    <rect x="158" y="130" width="64" height="36" rx="8" fill="#a3a3a3" stroke="#e5e7eb" stroke-width="2"/>
+    <circle cx="190" cy="177" r="25" fill="none" stroke="#cbd5e1" stroke-width="10"/>
+    <rect x="179" y="184" width="22" height="30" rx="6" fill="#9ca3af"/>
+    <g filter="url(#shadow)">
+      <rect x="55" y="205" width="270" height="390" rx="26" fill="url(#card)" stroke="#8b5cf6" stroke-width="2"/>
+      <text x="78" y="238" class="mono" font-size="10" letter-spacing="2" fill="#67e8f9">DEVELOPER ID</text>
+      <text x="302" y="238" text-anchor="end" class="mono" font-size="10" letter-spacing="1" fill="#ec4899">DP-2001</text>
+      <circle cx="190" cy="316" r="78" fill="none" stroke="#ec4899" stroke-width="2" filter="url(#glow)"><animate attributeName="stroke" values="#ec4899;#8b5cf6;#67e8f9;#ec4899" dur="4s" repeatCount="indefinite"/></circle>
+      <use href="#avatarBadge" x="118" y="244" width="144" height="144" clip-path="url(#face)"/>
+      <text x="190" y="420" text-anchor="middle" class="sans" font-size="26" font-weight="800" fill="#f8f5ff">Darshita Patel</text>
+      <text x="190" y="448" text-anchor="middle" class="mono" font-size="12" letter-spacing="1.5" fill="#c4b5fd">DATA &amp; SOFTWARE ANALYST</text>
+      <text x="190" y="474" text-anchor="middle" class="mono" font-size="12" fill="#a78bfa">@Darshita-dp</text>
+      <line x1="82" y1="496" x2="298" y2="496" stroke="#34224f"/>
+      <g fill="#e5e7eb">
+        <rect x="82" y="522" width="3" height="44"/><rect x="88" y="522" width="6" height="44"/><rect x="98" y="522" width="2" height="44"/><rect x="104" y="522" width="8" height="44"/><rect x="116" y="522" width="3" height="44"/><rect x="124" y="522" width="5" height="44"/><rect x="133" y="522" width="2" height="44"/><rect x="140" y="522" width="9" height="44"/><rect x="154" y="522" width="4" height="44"/><rect x="162" y="522" width="2" height="44"/><rect x="169" y="522" width="7" height="44"/><rect x="181" y="522" width="3" height="44"/><rect x="190" y="522" width="9" height="44"/><rect x="204" y="522" width="2" height="44"/><rect x="211" y="522" width="5" height="44"/><rect x="221" y="522" width="3" height="44"/><rect x="229" y="522" width="8" height="44"/><rect x="242" y="522" width="2" height="44"/><rect x="249" y="522" width="6" height="44"/><rect x="260" y="522" width="3" height="44"/><rect x="268" y="522" width="9" height="44"/><rect x="282" y="522" width="4" height="44"/><rect x="291" y="522" width="7" height="44"/>
+      </g>
+      <rect x="-140" y="205" width="90" height="390" fill="url(#shine)" clip-path="url(#cardClip)" transform="skewX(-18)"><animate attributeName="x" values="-140;410" dur="4.8s" repeatCount="indefinite"/></rect>
+    </g>
+  </g>
+  <text x="190" y="628" text-anchor="middle" class="mono" font-size="10" fill="#8b5cf6">— data products with a human center —</text>
+</svg>
