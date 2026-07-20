@@ -1,0 +1,225 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Darshita Patel animated GitHub profile banner</title>
+  <desc id="desc">Animated data and software analyst profile banner with terminal text, technology stack, code card, analytics visuals, and Darshita Patel portrait.</desc>
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0714"/>
+      <stop offset="0.55" stop-color="#150d25"/>
+      <stop offset="1" stop-color="#0b0714"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ec4899"><animate attributeName="stop-color" values="#ec4899;#a78bfa;#ec4899" dur="5s" repeatCount="indefinite"/></stop>
+      <stop offset="0.5" stop-color="#a78bfa"><animate attributeName="stop-color" values="#a78bfa;#67e8f9;#a78bfa" dur="5s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#67e8f9"><animate attributeName="stop-color" values="#67e8f9;#ec4899;#67e8f9" dur="5s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b1030" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#150d25" stop-opacity="0.76"/>
+    </linearGradient>
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67e8f9" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#67e8f9" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#ec4899" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000" flood-opacity="0.38"/>
+    </filter>
+    <clipPath id="bannerClip"><rect x="18" y="18" width="1244" height="684" rx="28"/></clipPath>
+    <clipPath id="portraitClip"><rect x="952" y="206" width="228" height="228" rx="32"/></clipPath>
+    <symbol id="avatarBanner" viewBox="0 0 256 256">
+      <defs>
+        <linearGradient id="jacketGrad-avatarBanner" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffaf2"/><stop offset="1" stop-color="#ded5ca"/></linearGradient>
+        <linearGradient id="hairGrad-avatarBanner" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#17131b"/><stop offset="1" stop-color="#050407"/></linearGradient>
+      </defs>
+      <circle cx="128" cy="128" r="124" fill="#f3e8ff" opacity=".28"/>
+      <path d="M44 123C42 49 78 20 128 20s86 29 84 103c-2 64-25 105-84 108-59-3-82-44-84-108z" fill="url(#hairGrad-avatarBanner)"/>
+      <path d="M75 83c8-37 29-52 53-52 25 0 47 16 54 53l-7 57c-6 43-24 67-47 67-24 0-42-24-48-67z" fill="#f2c5a6"/>
+      <path d="M82 89c4-37 21-57 46-58-19 13-28 31-30 60-7 8-10 15-12 27z" fill="#111015"/>
+      <path d="M174 91c-4-37-21-57-46-60 20 13 30 31 32 60 7 8 10 15 12 27z" fill="#111015"/>
+      <path d="M98 66c20-17 44-16 61 1-15-6-29-7-42-2-8 3-13 5-19 1z" fill="#09080b"/>
+      <ellipse cx="89" cy="124" rx="8" ry="14" fill="#eab896"/><ellipse cx="167" cy="124" rx="8" ry="14" fill="#eab896"/>
+      <path d="M101 114c7-5 15-5 21 0" fill="none" stroke="#272029" stroke-width="4" stroke-linecap="round"/>
+      <path d="M136 114c7-5 15-5 21 0" fill="none" stroke="#272029" stroke-width="4" stroke-linecap="round"/>
+      <ellipse cx="113" cy="122" rx="5.5" ry="7" fill="#3a2524"/><ellipse cx="148" cy="122" rx="5.5" ry="7" fill="#3a2524"/>
+      <circle cx="115" cy="120" r="1.7" fill="#fff"/><circle cx="150" cy="120" r="1.7" fill="#fff"/>
+      <path d="M130 123c-2 8-3 14 2 16" fill="none" stroke="#d59577" stroke-width="2.2" stroke-linecap="round"/>
+      <path d="M113 151c10 9 22 10 32 0" fill="none" stroke="#b95d65" stroke-width="3" stroke-linecap="round"/>
+      <path d="M108 169c12 8 28 8 40 0v31h-40z" fill="#e7b392"/>
+      <path d="M52 245c4-45 25-68 58-72l18 18 18-18c33 4 54 27 58 72z" fill="url(#jacketGrad-avatarBanner)"/>
+      <path d="M101 178l27 18 27-18-8 67h-38z" fill="#ec4899"/>
+      <path d="M95 180l-20 60h34l8-48z" fill="#f7f1e9" stroke="#d6cdc2" stroke-width="2"/>
+      <path d="M161 180l20 60h-34l-8-48z" fill="#f7f1e9" stroke="#d6cdc2" stroke-width="2"/>
+      <path d="M67 64c5-13 16-18 27-13" fill="none" stroke="#c4b5fd" stroke-width="5" stroke-linecap="round"/>
+      <path d="M189 64c-5-13-16-18-27-13" fill="none" stroke="#f472b6" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="91" cy="52" r="3" fill="#ec4899"/><circle cx="165" cy="52" r="3" fill="#8b5cf6"/>
+      <path d="M58 96c-7 56 5 103 35 132-26-16-45-48-49-91z" fill="#09080b"/>
+      <path d="M198 96c7 56-5 103-35 132 26-16 45-48 49-91z" fill="#09080b"/>
+    </symbol>
+    <style>
+      .sans{font-family:Segoe UI,Inter,Arial,sans-serif}
+      .mono{font-family:Consolas,Menlo,monospace}
+      .muted{fill:#bdb2cf}
+      .pill{opacity:1;animation:fadeUp .6s ease both}
+      .pillText{font:600 13px Segoe UI,Arial,sans-serif}
+      .fade1{opacity:1;animation:fadeUp .7s .2s ease both}
+      .fade2{opacity:1;animation:fadeUp .7s .45s ease both}
+      .fade3{opacity:1;animation:fadeUp .7s .7s ease both}
+      .codeLine{opacity:1;animation:codeIn .45s ease both}
+      .spark{animation:twinkle 2.4s ease-in-out infinite}
+      @keyframes fadeUp{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+      @keyframes codeIn{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:translateX(0)}}
+      @keyframes twinkle{0%,100%{opacity:.28;transform:scale(.8)}50%{opacity:1;transform:scale(1.15)}}
+    </style>
+  </defs>
+
+  <rect width="1280" height="720" fill="#0b0714"/>
+  <rect x="18" y="18" width="1244" height="684" rx="28" fill="url(#bgGrad)" stroke="#7c3aed" stroke-width="2"/>
+
+  <g clip-path="url(#bannerClip)">
+    <g opacity="0.5">
+      <path d="M 0 80 H 1280" stroke="#2a1745" stroke-width="1"/><path d="M 0 144 H 1280" stroke="#2a1745" stroke-width="1"/><path d="M 0 208 H 1280" stroke="#2a1745" stroke-width="1"/><path d="M 0 272 H 1280" stroke="#2a1745" stroke-width="1"/><path d="M 0 336 H 1280" stroke="#2a1745" stroke-width="1"/><path d="M 0 400 H 1280" stroke="#2a1745" stroke-width="1"/><path d="M 0 464 H 1280" stroke="#2a1745" stroke-width="1"/><path d="M 0 528 H 1280" stroke="#2a1745" stroke-width="1"/><path d="M 0 592 H 1280" stroke="#2a1745" stroke-width="1"/><path d="M 0 656 H 1280" stroke="#2a1745" stroke-width="1"/>
+      <path d="M 80 0 V 720" stroke="#2a1745" stroke-width="1"/><path d="M 160 0 V 720" stroke="#2a1745" stroke-width="1"/><path d="M 240 0 V 720" stroke="#2a1745" stroke-width="1"/><path d="M 320 0 V 720" stroke="#2a1745" stroke-width="1"/><path d="M 400 0 V 720" stroke="#2a1745" stroke-width="1"/><path d="M 480 0 V 720" stroke="#2a1745" stroke-width="1"/><path d="M 560 0 V 720" stroke="#2a1745" stroke-width="1"/><path d="M 640 0 V 720" stroke="#2a1745" stroke-width="1"/><path d="M 720 0 V 720" stroke="#2a1745" stroke-width="1"/><path d="M 800 0 V 720" stroke="#2a1745" stroke-width="1"/><path d="M 880 0 V 720" stroke="#2a1745" stroke-width="1"/><path d="M 960 0 V 720" stroke="#2a1745" stroke-width="1"/><path d="M 1040 0 V 720" stroke="#2a1745" stroke-width="1"/><path d="M 1120 0 V 720" stroke="#2a1745" stroke-width="1"/><path d="M 1200 0 V 720" stroke="#2a1745" stroke-width="1"/>
+    </g>
+    <circle cx="1070" cy="350" r="250" fill="url(#halo)"><animate attributeName="r" values="235;265;235" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="115" cy="620" r="145" fill="#ec4899" opacity="0.055"/>
+    <circle cx="650" cy="40" r="120" fill="#a78bfa" opacity="0.05"/>
+
+    <g class="fade1">
+      <text x="62" y="58" class="mono" font-size="16" fill="#34d399">darshita@data-systems</text>
+      <text x="280" y="58" class="mono" font-size="16" fill="#bdb2cf">:~$ cat </text>
+      <text x="346" y="58" class="mono" font-size="16" fill="#ec4899">README.md</text>
+      <rect x="442" y="44" width="8" height="18" fill="#34d399"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+    </g>
+
+    <g class="fade2">
+      <text x="64" y="118" class="sans" font-size="24" font-weight="700" fill="#f8f5ff">Hi, I’m</text>
+      <text x="64" y="180" class="sans" font-size="58" font-weight="800" fill="url(#nameGrad)" filter="url(#glow)">Darshita Patel</text>
+    </g>
+
+    <rect x="64" y="198" width="515" height="35" rx="17" fill="#130b22" stroke="#2b1748"/>
+    <g class="mono" font-size="16" fill="#c4b5fd">
+      <text x="82" y="221" opacity="1">Data &amp; Software Analyst<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.22;.28;1" dur="12s" repeatCount="indefinite"/></text>
+      <text x="82" y="221" opacity="0">Healthcare Analytics Builder<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.27;.32;.48;.54;1" dur="12s" repeatCount="indefinite"/></text>
+      <text x="82" y="221" opacity="0">BI • Automation • Full-Stack Data Products<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.53;.58;.76;.82" dur="12s" repeatCount="indefinite"/></text>
+      <text x="82" y="221" opacity="0">Creative Technologist<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.81;.86;.96;1" dur="12s" repeatCount="indefinite"/></text>
+    </g>
+
+    <g class="fade3">
+      <rect x="64" y="248" width="520" height="84" rx="14" fill="#160f29" stroke="#2b1748" stroke-width="1.2"/>
+      <rect x="64" y="248" width="4" height="84" rx="2" fill="#ec4899"/>
+      <text x="86" y="280" class="mono" font-size="16" fill="#f8f5ff">“I don’t just analyze data—</text>
+      <text x="86" y="307" class="mono" font-size="16" fill="#f8f5ff">I build the system that acts on it.”</text>
+      <path d="M548 270 l4 9 9 4-9 4-4 9-4-9-9-4 9-4z" fill="#a78bfa" class="spark"/>
+    </g>
+
+    <text x="66" y="350" class="sans" font-size="15" font-weight="700" fill="#ec4899">CORE STACK</text>
+    <g class="pill" style="animation-delay:0.65s">
+      <rect x="68" y="363" width="74" height="32" rx="16" fill="#21133a" stroke="#8b5cf6" stroke-width="1.2"/>
+      <text x="105.0" y="384" text-anchor="middle" class="pillText" fill="#efe7ff">SQL</text>
+    </g>
+<g class="pill" style="animation-delay:0.77s">
+      <rect x="151" y="363" width="92" height="32" rx="16" fill="#21133a" stroke="#8b5cf6" stroke-width="1.2"/>
+      <text x="197.0" y="384" text-anchor="middle" class="pillText" fill="#efe7ff">Python</text>
+    </g>
+<g class="pill" style="animation-delay:0.89s">
+      <rect x="252" y="363" width="102" height="32" rx="16" fill="#21133a" stroke="#8b5cf6" stroke-width="1.2"/>
+      <text x="303.0" y="384" text-anchor="middle" class="pillText" fill="#efe7ff">Power BI</text>
+    </g>
+<g class="pill" style="animation-delay:1.01s">
+      <rect x="363" y="363" width="84" height="32" rx="16" fill="#21133a" stroke="#8b5cf6" stroke-width="1.2"/>
+      <text x="405.0" y="384" text-anchor="middle" class="pillText" fill="#efe7ff">React</text>
+    </g>
+<g class="pill" style="animation-delay:1.13s">
+      <rect x="456" y="363" width="96" height="32" rx="16" fill="#21133a" stroke="#8b5cf6" stroke-width="1.2"/>
+      <text x="504.0" y="384" text-anchor="middle" class="pillText" fill="#efe7ff">FastAPI</text>
+    </g>
+<g class="pill" style="animation-delay:1.25s">
+      <rect x="561" y="363" width="124" height="32" rx="16" fill="#21133a" stroke="#8b5cf6" stroke-width="1.2"/>
+      <text x="623.0" y="384" text-anchor="middle" class="pillText" fill="#efe7ff">Automation</text>
+    </g>
+
+    <g class="fade3">
+      <text x="66" y="435" class="sans" font-size="15" font-weight="700" fill="#ec4899">WHAT I BUILD</text>
+      <circle cx="74" cy="463" r="4" fill="#34d399"/>
+      <text x="88" y="469" class="sans" font-size="15" fill="#f8f5ff">Decision-support systems for healthcare and operations</text>
+      <circle cx="74" cy="495" r="4" fill="#67e8f9"/>
+      <text x="88" y="501" class="sans" font-size="15" fill="#f8f5ff">Reliable SQL models, Python pipelines, BI and workflow automation</text>
+      <circle cx="74" cy="527" r="4" fill="#a78bfa"/>
+      <text x="88" y="533" class="sans" font-size="15" fill="#f8f5ff">Interfaces that turn complex data into the next best action</text>
+    </g>
+
+    <g filter="url(#shadow)">
+      <rect x="612" y="64" width="292" height="274" rx="16" fill="url(#glass)" stroke="#2b1748"/>
+      <rect x="612" y="64" width="292" height="34" rx="16" fill="#2b1748"/>
+      <circle cx="630" cy="81" r="5" fill="#fb7185"/><circle cx="647" cy="81" r="5" fill="#fbbf24"/><circle cx="664" cy="81" r="5" fill="#34d399"/>
+      <text x="748" y="86" text-anchor="middle" class="mono" font-size="12" fill="#bdb2cf">impact.ts</text>
+      <g class="mono" font-size="13" fill="#ddd6fe">
+        <text x="630" y="124" class="codeLine" style="animation-delay:.8s"><tspan fill="#ec4899">function</tspan> buildImpact() &#123;</text>
+        <text x="646" y="151" class="codeLine" style="animation-delay:1.05s"><tspan fill="#a78bfa">return</tspan> &#123;</text>
+        <text x="662" y="178" class="codeLine" style="animation-delay:1.3s">data: <tspan fill="#34d399">"trusted"</tspan>,</text>
+        <text x="662" y="205" class="codeLine" style="animation-delay:1.55s">insights: <tspan fill="#34d399">"actionable"</tspan>,</text>
+        <text x="662" y="232" class="codeLine" style="animation-delay:1.8s">workflows: <tspan fill="#34d399">"automated"</tspan>,</text>
+        <text x="662" y="259" class="codeLine" style="animation-delay:2.05s">experience: <tspan fill="#34d399">"human"</tspan></text>
+        <text x="646" y="286" class="codeLine" style="animation-delay:2.3s">&#125;;</text>
+        <text x="630" y="313" class="codeLine" style="animation-delay:2.55s">&#125;</text>
+      </g>
+    </g>
+
+    <g filter="url(#shadow)">
+      <rect x="962" y="56" width="238" height="104" rx="16" fill="url(#glass)" stroke="#ec4899"/>
+      <text x="1081" y="91" text-anchor="middle" class="mono" font-size="17" font-weight="700" fill="#ec4899" filter="url(#glow)">BUILD WITH PURPOSE</text>
+      <text x="1081" y="122" text-anchor="middle" class="mono" font-size="14" font-weight="700" fill="#a78bfa">DATA → DECISIONS → ACTION</text>
+      <rect x="988" y="136" width="186" height="2" fill="#67e8f9" opacity=".8"><animate attributeName="opacity" values=".25;1;.25" dur="1.8s" repeatCount="indefinite"/></rect>
+    </g>
+
+    <g filter="url(#shadow)">
+      <rect x="934" y="186" width="278" height="405" rx="24" fill="url(#glass)" stroke="#7c3aed" stroke-width="1.5"/>
+      <rect x="952" y="206" width="228" height="228" rx="32" fill="#2b1748"/>
+      <use href="#avatarBanner" x="952" y="206" width="228" height="228" clip-path="url(#portraitClip)"/>
+      <rect x="949" y="203" width="234" height="234" rx="35" fill="none" stroke="url(#nameGrad)" stroke-width="3"/>
+      <text x="1073" y="466" text-anchor="middle" class="sans" font-size="22" font-weight="800" fill="#f8f5ff">Darshita Patel</text>
+      <text x="1073" y="492" text-anchor="middle" class="mono" font-size="13" fill="#a78bfa">@Darshita-dp</text>
+      <text x="1073" y="520" text-anchor="middle" class="sans" font-size="13" fill="#bdb2cf">Data • Software • Analytics</text>
+
+      <g transform="translate(966 542)">
+        <rect width="214" height="28" rx="8" fill="#2b1748"/>
+        <rect x="12" y="17" width="7" height="5" rx="2" fill="#ec4899"><animate attributeName="height" values="5;15;8;5" dur="2.4s" repeatCount="indefinite"/><animate attributeName="y" values="17;7;14;17" dur="2.4s" repeatCount="indefinite"/></rect>
+        <rect x="25" y="13" width="7" height="9" rx="2" fill="#a78bfa"><animate attributeName="height" values="9;5;17;9" dur="2.1s" repeatCount="indefinite"/><animate attributeName="y" values="13;17;5;13" dur="2.1s" repeatCount="indefinite"/></rect>
+        <rect x="38" y="8" width="7" height="14" rx="2" fill="#67e8f9"><animate attributeName="height" values="14;7;18;14" dur="2.7s" repeatCount="indefinite"/><animate attributeName="y" values="8;15;4;8" dur="2.7s" repeatCount="indefinite"/></rect>
+        <path d="M62 18 C83 2, 99 22, 122 8 S160 19, 198 6" fill="none" stroke="#a78bfa" stroke-width="2" stroke-linecap="round"/>
+        <circle cx="198" cy="6" r="3" fill="#ec4899"><animate attributeName="r" values="2;4;2" dur="1.5s" repeatCount="indefinite"/></circle>
+      </g>
+    </g>
+
+    <g filter="url(#shadow)">
+      <rect x="64" y="576" width="840" height="82" rx="16" fill="url(#glass)" stroke="#2b1748"/>
+      <g class="sans" text-anchor="middle">
+        <text x="170" y="608" font-size="12" fill="#bdb2cf">PUBLIC REPOSITORIES</text><text x="170" y="639" font-size="23" font-weight="800" fill="#ec4899">11+</text>
+        <line x1="274" y1="592" x2="274" y2="644" stroke="#2b1748"/>
+        <text x="380" y="608" font-size="12" fill="#bdb2cf">FLAGSHIP SYSTEMS</text><text x="380" y="639" font-size="23" font-weight="800" fill="#a78bfa">3</text>
+        <line x1="484" y1="592" x2="484" y2="644" stroke="#2b1748"/>
+        <text x="590" y="608" font-size="12" fill="#bdb2cf">PRIMARY DOMAINS</text><text x="590" y="639" font-size="17" font-weight="800" fill="#67e8f9">HEALTH • BI • SUPPLY</text>
+        <line x1="694" y1="592" x2="694" y2="644" stroke="#2b1748"/>
+        <text x="800" y="608" font-size="12" fill="#bdb2cf">CURRENT STATUS</text><text x="800" y="639" font-size="18" font-weight="800" fill="#34d399">OPEN TO WORK</text>
+      </g>
+    </g>
+
+    <g class="spark" style="animation-delay:.4s"><path d="M598 396 l5 11 11 5-11 5-5 11-5-11-11-5 11-5z" fill="#ec4899"/></g>
+    <g class="spark" style="animation-delay:1.1s"><path d="M905 430 l3 7 7 3-7 3-3 7-3-7-7-3 7-3z" fill="#67e8f9"/></g>
+    <g class="spark" style="animation-delay:1.6s"><circle cx="1230" cy="625" r="4" fill="#a78bfa"/></g>
+    <g class="spark" style="animation-delay:2s"><circle cx="610" cy="555" r="3" fill="#ec4899"/></g>
+
+    <rect x="18" y="18" width="1244" height="7" fill="url(#scanGrad)" opacity="0.68">
+      <animate attributeName="y" values="18;695;18" dur="4.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.75;0" dur="4.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
