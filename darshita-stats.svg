@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="210" viewBox="0 0 650 210" role="img" aria-label="Darshita Patel profile stats">
+<defs>
+ <linearGradient id="g" x1="0" x2="1"><stop stop-color="#ec4899"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <style>.s{font-family:Segoe UI,Arial,sans-serif}.m{font-family:Consolas,monospace}.row{opacity:1;animation:in .6s ease both}@keyframes in{from{opacity:0;transform:translateX(-18px)}to{opacity:1;transform:translateX(0)}}</style>
+</defs>
+<rect x="2" y="2" width="646" height="206" rx="18" fill="#170e28" stroke="#8b5cf6" stroke-width="2"/>
+<text x="28" y="38" class="m" font-size="16" font-weight="700" fill="#f472b6">Darshita Patel • Portfolio Snapshot</text>
+<g class="row" style="animation-delay:.2s"><text x="30" y="76" class="s" font-size="14" fill="#cbd5e1">Public repositories</text><text x="300" y="76" class="m" font-size="17" font-weight="700" fill="#67e8f9">11+</text></g>
+<g class="row" style="animation-delay:.4s"><text x="30" y="111" class="s" font-size="14" fill="#cbd5e1">Flagship decision systems</text><text x="300" y="111" class="m" font-size="17" font-weight="700" fill="#34d399">3</text></g>
+<g class="row" style="animation-delay:.6s"><text x="30" y="146" class="s" font-size="14" fill="#cbd5e1">Core delivery layers</text><text x="300" y="146" class="m" font-size="14" font-weight="700" fill="#c4b5fd">DATA • API • BI • UI</text></g>
+<g class="row" style="animation-delay:.8s"><text x="30" y="181" class="s" font-size="14" fill="#cbd5e1">Current focus</text><text x="300" y="181" class="m" font-size="14" font-weight="700" fill="#f472b6">HEALTHCARE + SUPPLY CHAIN</text></g>
+<circle cx="531" cy="111" r="62" fill="none" stroke="#34224f" stroke-width="13"/>
+<circle cx="531" cy="111" r="62" fill="none" stroke="url(#g)" stroke-width="13" stroke-linecap="round" stroke-dasharray="330 390" transform="rotate(-90 531 111)" filter="url(#glow)"><animate attributeName="stroke-dasharray" values="0 390;330 390" dur="1.8s" fill="freeze"/></circle>
+<text x="531" y="108" text-anchor="middle" class="s" font-size="34" font-weight="800" fill="#f8f5ff">A</text>
+<text x="531" y="134" text-anchor="middle" class="m" font-size="10" fill="#a78bfa">BUILD QUALITY</text>
+</svg>
