@@ -8,8 +8,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Healthcare%20Analytics-4F46E5?style=flat-square&logo=googleanalytics&logoColor=white" alt="Healthcare Analytics" />
-<img src="https://img.shields.io/badge/BI%20%26%20Data%20Modeling-6D28D9?style=flat-square&logo=powerbi&logoColor=white" alt="BI and Data Modeling" />
+<img src="https://img.shields.io/badge/Healthcare%20Analytics-4F46E5?style=flat-square&logo=googleanalytics&logoColor=white" alt="Healthcare Analytics image" />
+<img src="https://img.shields.io/badge/BI%20%26%20Data%20Modeling-6D28D9?style=flat-square&logo=powerbi&logoColor=white" alt="BI and Data Modeling image" />
 <img src="https://img.shields.io/badge/Chicago%2C%20Illinois%2C%20USA-7C3AED?style=flat-square&logo=googlemaps&logoColor=white" alt="Chicago, Illinois, USA" />
 
 <br/><br/>
