@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/BI%20%26%20Data%20Modeling-6D28D9?style=flat-square&logo=powerbi&logoColor=white" alt="BI and Data Modeling image" />
 <img src="https://img.shields.io/badge/Chicago%2C%20Illinois%2C%20USA-7C3AED?style=flat-square&logo=googlemaps&logoColor=white" alt="Chicago, Illinois, USA" />
 
-<br/><br/>
+<br/>
 
 <a href="https://dp-portfolio.freebuff.app/"><img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/darshitapatel2001/"><img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
