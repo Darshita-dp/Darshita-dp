@@ -1,4 +1,3 @@
-do you think i should change anything in this code to improve it:
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:312E81,45:6D28D9,100:9333EA&text=Darshita%20Patel&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Darshita Patel header" />
