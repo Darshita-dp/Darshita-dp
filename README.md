@@ -8,7 +8,6 @@ do you think i should change anything in this code to improve it:
 </a>
 
 <br/>
-<br/>
 
 <img src="https://img.shields.io/badge/Healthcare%20Analytics-4F46E5?style=flat-square&logo=googleanalytics&logoColor=white" alt="Healthcare Analytics image" />
 <img src="https://img.shields.io/badge/BI%20%26%20Data%20Modeling-6D28D9?style=flat-square&logo=powerbi&logoColor=white" alt="BI and Data Modeling image" />
@@ -36,7 +35,7 @@ I build **healthcare data products** that connect analytics with daily operation
 
 My focus is not just reporting what happened. I build decision-support systems that help teams determine **what to do next**: which claim to prioritize, which payer to escalate, which appointment is at risk, or which patient should fill an open slot.
 
-**Open to:** `Data Analyst` · `Data & Software Analyst` · `Healthcare Data Analyst` · `BI Analyst` · `Power BI Developer` · `Business Systems Analyst` · `Process Automation Analyst` · `Developer` 
+**Open to:** `Data Analyst` · `Data & Software Analyst` · `Healthcare Data Analyst` · `BI Analyst` · `Power BI Developer` · `Business Systems Analyst` · `Process Automation Analyst` · `Developer` · `Software Developer` · `Data Engineer`
 
 ---
 
