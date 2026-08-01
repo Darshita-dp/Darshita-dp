@@ -30,7 +30,7 @@
 
 ## About
 
-I build **healthcare data products** that connect analytics with daily operations—from **SQL models and Python ETL pipelines** to **Power BI dashboards, React interfaces, FastAPI services, and workflow automation**.
+I build **data products** that connect analytics with daily operations—from **SQL models and Python ETL pipelines** to **Power BI dashboards, React interfaces, FastAPI services, and workflow automation**.
 
 My focus is not just reporting what happened. I build decision-support systems that help teams determine **what to do next**: which claim to prioritize, which payer to escalate, which appointment is at risk, or which patient should fill an open slot.
 
