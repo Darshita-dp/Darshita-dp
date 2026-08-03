@@ -44,7 +44,7 @@ My focus is not just reporting what happened. I build decision-support systems t
 
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,fastapi,nodejs,postgres,mysql,sqlite,docker,git,github,postman,vscode&theme=dark" alt="Technology stack" />
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/SQL-4F46E5?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
