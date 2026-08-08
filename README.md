@@ -95,7 +95,7 @@ My focus is not just reporting what happened. I build decision-support systems t
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshita-dp&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681&stroke=30363D" height="180" alt="GitHub streak" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darshita-dp&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
 
