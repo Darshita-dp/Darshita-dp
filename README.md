@@ -93,7 +93,7 @@ My focus is not just reporting what happened. I build decision-support systems t
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshita-dp&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681&stroke=30363D" height="180" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshita-dp&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681&stroke=30363D&count_private=true" height="180" alt="GitHub streak" />
 
 <br/>
 
